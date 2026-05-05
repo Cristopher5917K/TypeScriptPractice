@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4f14ba2f-619c-4021-81ac-77521f113135" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../ElectroStock/src/udla/edu/cgarcia/mrevelo/cespinoza/Accesorios/Accesorio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ElectroStock/src/udla/edu/cgarcia/mrevelo/cespinoza/Accesorios/Tipo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ElectroStock/src/udla/edu/cgarcia/mrevelo/cespinoza/Inventario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ElectroStock/src/udla/edu/cgarcia/mrevelo/cespinoza/periferico/Conexion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ElectroStock/src/udla/edu/cgarcia/mrevelo/cespinoza/periferico/Periferico.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ElectroStock/src/udla/edu/cgarcia/mrevelo/cespinoza/periferico/TipoPeriferico.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ElectroStock1/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nebula-propio/src/udla/edu/ec/cgarcia/mrevelo/proyectofinal/conexion/ConexionMySQL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pooBDD/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pooHerencia/src/udla/cgarcia/pooh/p/Universidad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pooHerencia/src/udla/cgarcia/pooh/p1/Alumno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pooHerencia/src/udla/cgarcia/pooh/p1/Genero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pooHerencia/src/udla/cgarcia/pooh/p1/Materia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pooHerencia/src/udla/cgarcia/pooh/p1/Persona.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pooHerencia/src/udla/cgarcia/pooh/p1/Profesor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../progra_proyectoFinal/src/model/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../progra_proyectoFinal/src/model/Deuda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../progra_proyectoFinal/src/model/Gasto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../progra_proyectoFinal/src/model/Ingreso.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../progra_proyectoFinal/src/model/Movimiento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../progra_proyectoFinal/src/model/ObligacionFinanciera.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../progra_proyectoFinal/src/model/Prestamo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../progra_proyectoFinal/src/ui/ConsolaUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ejercicio1/src/Factura.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ejercico3/src/Fecha.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="37zdiGAOwu2lsgE8oouDeP8d3Y5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Cristopher/Escritorio/pooGrafica"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4f14ba2f-619c-4021-81ac-77521f113135" name="Changes" comment="" />
+      <created>1767909960799</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1767909960799</updated>
+    </task>
+    <servers />
+  </component>
+</project>
